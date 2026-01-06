@@ -1,5 +1,5 @@
 theme = "blowfish"
-baseURL = "https://github.com/CheeseSilly/LightBeneathNexus"
+baseURL = "https://CheeseSilly.github.io/LightBeneathNexus"
 defaultContentLanguage = "zh-cn"
 enableRobotsTXT = true
 summaryLength = 0
