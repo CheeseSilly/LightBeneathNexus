@@ -1,0 +1,31 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Reverier"
+pageRef = "reveriers"
+identifier = "pD4hH57NYF"
+weight = 2
+
+[[main]]
+name = "Wiki"
+pageRef = "wiki"
+identifier = "3HVqNVVAo4"
+weight = 3
+
+[[main]]
+name = "Side"
+pageRef = "side"
+weight = 4
+
+[[main]]
+pre = "x-twitter"
+url = "https://x.com/cheesesilly1"
+identifier = "RZ7NWeqEvb"
+weight = 12
+
+[[main]]
+pre = "github"
+url = "https://github.com/CheeseSilly"
+identifier = "q8niUWxIVj"
+weight = 11

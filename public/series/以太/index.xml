@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>以太 on Light Beneath Nexus</title>
+    <link>http://lightnexus.xozv.top/series/%E4%BB%A5%E5%A4%AA/</link>
+    <description>Recent content in 以太 on Light Beneath Nexus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <managingEditor>si11ycheese6680@gmail.com (SillyCheese)</managingEditor>
+    <webMaster>si11ycheese6680@gmail.com (SillyCheese)</webMaster>
+    <copyright>© 2026 SillyCheese</copyright>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://lightnexus.xozv.top/series/%E4%BB%A5%E5%A4%AA/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>学院 (The Academy)</title>
+      <link>http://lightnexus.xozv.top/wiki/2026-01-06-%E5%AD%A6%E9%99%A2/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <author>si11ycheese6680@gmail.com (SillyCheese)</author>
+      <guid>http://lightnexus.xozv.top/wiki/2026-01-06-%E5%AD%A6%E9%99%A2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>以太 (Ether)</title>
+      <link>http://lightnexus.xozv.top/wiki/2025-12-30-%E4%BB%A5%E5%A4%AA/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      <author>si11ycheese6680@gmail.com (SillyCheese)</author>
+      <guid>http://lightnexus.xozv.top/wiki/2025-12-30-%E4%BB%A5%E5%A4%AA/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

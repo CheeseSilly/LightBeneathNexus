@@ -1,0 +1,24 @@
+disabled = false
+languageCode = "zh-cn"
+languageName = "Simplified Chinese (China)"
+weight = 1
+title = "Light Beneath Nexus"
+
+[params]
+displayName = "ZH-CH"
+isoCode = "zh-cn"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Reverier_logo.png"
+secondaryLogo = "Reverier_logo.png"
+description = "Light Beneath Nexus"
+
+["params.author"]
+name = "SillyCheese"
+email = "si11ycheese6680@gmail.com"
+image = "author.jpg"
+headline = "Daydreamer"
+bio = "nullptr"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
