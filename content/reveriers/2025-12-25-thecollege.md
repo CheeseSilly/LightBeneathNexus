@@ -1,5 +1,5 @@
 ---
-title: "学院"
+title: Intro
 date: 2025-12-25
 series: ["Reveriers"]
 series_order: 1
