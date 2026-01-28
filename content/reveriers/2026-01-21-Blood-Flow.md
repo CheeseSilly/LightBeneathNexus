@@ -3,7 +3,7 @@ title: "parallel,Ammælisstrákur,How To Draw Petrichor"
 date: 2026-01-21
 series: ["Reveriers"]
 series_order: 7
-draft: true
+draft: false
 ---
 
 上界，光昆仑顶层，“原初之火”教室。
